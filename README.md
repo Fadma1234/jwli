@@ -19,6 +19,6 @@ A simple website project to practice HTML, CSS.
 
 
 
-Usage
+## Usage
 
 Click the link on the right side of the page under about
