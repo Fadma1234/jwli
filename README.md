@@ -1,4 +1,5 @@
 # JWLI
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/3c799a89-f4c3-4385-893d-0da3fbe9c514" />
 
 A simple website project to practice HTML, CSS.
 
